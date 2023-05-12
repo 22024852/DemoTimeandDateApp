@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Time and Date App</string>
+    <string name="displaydate">DISPLAY DATE</string>
+    <string name="displaytime">DISPLAY TIME</string>
+    <string name="empty">   </string>
+    <string name="reset">RESET</string>
+
+</resources>
